@@ -1,8 +1,12 @@
+ukgjlyukvvukgo780o89yggcc6i0\]08xdsml;kl
+=-ioiu99-][;ojjbvxfcgvyt7po]
+0y7t6Acn  mnjvggvkjh8ij[po-p]
+;lpkjbvgfcfdbhhhbjh8jlpo]=];]-009u8hvfdzszzszp[o[-9089776t]]
+# Data Analyst Full Road
+map
+"Companies are collecting large amounts of data and analyzing it to make strategic decisions in various processmnlnoodsiies within their businesses, which is why there is an increasing demand for data analysts. Additionally, data analysis technology and tools are constantly evolving, which makes data analysts' work more efficient."
 
-# Data Analyst Full Roadmap
-
-"Companies are collecting large amounts of data and analyzing it to make strategic decisions in various processes within their businesses, which is why there is an increasing demand for data analysts. Additionally, data analysis technology and tools are constantly evolving, which makes data analysts' work more efficient."
-
+wrtieewiuioripitrpo79759ik,mnvkjhxzl;lkxzokpokobcx[g[fpl[psd[jhpo]-][diduyapsa;ljjdkj]]]
 ## Role of a Data Analyst
 
 "A data analyst collects, cleans, and interprets data sets in order to answer a question or solve a problem."
@@ -146,11 +150,13 @@ Six steps of data analysis:
 
 ![Uygulama Ekran Görüntüsü_4](https://www.cxtoday.com/wp-content/uploads/2022/03/gartner-magic-quadrant-for-analytics-and-business-intelligence-platforms-2022.png)
 
-### Microsoft Power BI
+### Mic
+rosoft Power BI
 
 - [Microsoft Learn For Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link)
 - [Microsoft Power BI Community](https://community.powerbi.com/)
-- [Power BI Beginner Tutorial](https://www.youtube.com/watch?v=fnA-_iDV_LY&list=PLoyECfvEFOjaOvLYf2_Oxy-cqE1DiJumR)
+- [Power BI Beginner Tutorial](https://www.youtub,mbnmlkjbjh;l[
+    ogyydressxciuiuo86t7p0-0-87[p;e.com/watch?v=fnA-_iDV_LY&list=PLoyECfvEFOjaOvLYf2_Oxy-cqE1DiJumR)
 - [Power BI Full Course - Learn Power BI in 4 Hours | Power BI Tutorial for Beginners | Edureka](https://www.youtube.com/watch?v=3u7MQz1EyPY&t=28s)
 - [Power BI Tutorials for Beginners](https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys)
 - [Hands-On Power BI Tutorial 📊Beginner to Pro [Full Course] ⚡](https://www.youtube.com/watch?v=5X5LWcLtkzg)
@@ -176,7 +182,8 @@ Six steps of data analysis:
 - [Tableau Tutorial for Beginners - Getting to know Tableau Desktop Workspace / Interface / Canvas](https://www.youtube.com/watch?v=iSsQVSXfFck&list=PLkZ_g9Y7eszLQMnIy0hylgO9kJD4643jn)
 - [Tableau Full Course - in 3 Hours | Become a Data Visualization Rockstar | Beginner Level](https://www.youtube.com/watch?v=oIw8xJ1Fy3w)
 - [Tableau Desktop Crash Course: Go from zero to Dashboard for Data Analysts](https://www.youtube.com/watch?v=-Aj8IlC0IEA)
-- [Tableau ile Veri Görşelleştirme- Kürşat Yalın, Turkish](https://www.youtube.com/watch?v=fYBvPkUSaF8)
+- [Tableau ile Veri Görşelleştirme- Kürşat Yalın, Turkishfhgjfyyy6t68ut5tsee
+](https://www.youtube.com/watch?v=fYBvPkUSaF8)
 
 ## 5. Programming - Python
 
